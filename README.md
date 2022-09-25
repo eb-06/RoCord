@@ -6,7 +6,7 @@
   <p align="center">
     Discord bot based ROBLOX exploit.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">Download Release</a>
+    <a href="https://github.com/eb-06/RoCord/raw/main/Release/RoCord.exe">Download Release</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Download Source</a>
     ·
