@@ -48,17 +48,31 @@ Upon arriving to the section, you'll be greeted with a button allowing you to cr
 
 ## Creating the server.
 
-![]()
-![]()
-![]()
-![]()
+![](https://cdn.upload.systems/uploads/1r9IIKTB.png)
+![](https://cdn.upload.systems/uploads/6RwOrzuV.png)
+![](https://cdn.upload.systems/uploads/gEf9rnpB.png)
+![](https://cdn.upload.systems/uploads/7pUg0QBn.png)
+![](https://cdn.upload.systems/uploads/fH8nMYKh.png)
 
 <p align="right">[<a href="#top">back to the top</a>]</p>
 
 ## Inviting the Discord bot.
+
+![](https://cdn.upload.systems/uploads/W9wtuJyr.png)
+![](https://cdn.upload.systems/uploads/HO8SXJKj.png)
+![](https://cdn.upload.systems/uploads/L6ihAQlp.png)
+![](https://cdn.upload.systems/uploads/BD8OOOLZ.png)
+![](https://cdn.upload.systems/uploads/Q5u2Z57v.png)
+![](https://cdn.upload.systems/uploads/bYbbrjis.png)
+![](https://cdn.upload.systems/uploads/OALkyxl9.png)
+
 <p align="right">[<a href="#top">back to the top</a>]</p>
 
 ## Setting up RoCord.
+
+![]()
+![]()
+
 <p align="right">[<a href="#top">back to the top</a>]</p>
 
 ## Using RoCord commands.
