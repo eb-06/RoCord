@@ -33,7 +33,7 @@ Make sure you're on the `Applications` page. Whilst at the page, click `New Appl
 ![](https://cdn.upload.systems/uploads/9SdFzFyt.png)
 
 Upon clicking the button, insert a name of your liking for the Discord bot, any will do. *(You can change the name whenever you want later.)*
-Now toggle the checkbox which you agree to the `Discord Developer Terms of Service and Developer Policy.` If you agree, click `Create`.
+Now toggle the checkbox and that which you agree to the `Discord Developer Terms of Service and Developer Policy.` If you agree, click `Create`.
 
 Upon the creation of the bot, you will be greeted with various options which control different aspects of the bot. Just head over to the `Bot` section. Found left handside of the page.
 
