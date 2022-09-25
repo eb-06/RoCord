@@ -10,7 +10,7 @@
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Download Source</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Issue</a>
+    <a href="https://github.com/eb-06/RoCord/issues">Report Issue</a>
   </p>
 </div>
 
