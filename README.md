@@ -37,8 +37,7 @@ Now toggle the checkbox which you agree to the `Discord Developer Terms of Servi
 
 Upon the creation of the bot, you will be greeted with various options which control different aspects of the bot. Just head over to the `Bot` section. Found left handside of the page.
 
-![](https://cdn.upload.systems/uploads/NUmlQj1K.png)
-![](https://cdn.upload.systems/uploads/DnCuKaBV.png)
+![](https://cdn.upload.systems/uploads/NUmlQj1K.png) ![](https://cdn.upload.systems/uploads/DnCuKaBV.png)
 
 Upon arriving to the section, you'll be greeted with a button allowing you to create your bot, press `Add Bot`. If all steps have been done correctly you'll be left with another list of options which allow you to customize your bot. For now we will ignore them.
 
