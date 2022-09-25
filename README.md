@@ -48,7 +48,7 @@ Upon arriving to the section, you'll be greeted with a button allowing you to cr
 
 ## Creating the server.
 
-<img src="https://cdn.upload.systems/uploads/1r9IIKTB.png" width="100"/> <img src="https://cdn.upload.systems/uploads/6RwOrzuV.png" width="400"/> <img src="https://cdn.upload.systems/uploads/gEf9rnpB.png" width="400"/>
+<img src="https://cdn.upload.systems/uploads/1r9IIKTB.png" width="100"/> <img src="https://cdn.upload.systems/uploads/6RwOrzuV.png" width="300"/> <img src="https://cdn.upload.systems/uploads/gEf9rnpB.png" width="400"/>
 
 ![](https://cdn.upload.systems/uploads/7pUg0QBn.png)
 ![](https://cdn.upload.systems/uploads/fH8nMYKh.png)
