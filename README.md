@@ -8,7 +8,7 @@
     <br />
     <a href="https://github.com/eb-06/RoCord/raw/main/Release/RoCord.exe">Download Release</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Download Source</a>
+    <a href="https://github.com/eb-06/RoCord/archive/refs/heads/main.zip">Download Source</a>
     ·
     <a href="https://github.com/eb-06/RoCord/issues">Report Issue</a>
   </p>
