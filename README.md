@@ -1,6 +1,6 @@
  <a name="top"></a>
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/eb-06/RoCord">
     <img src="Source/RoCord/Resources/RoCord.png" alt="Logo">
   </a>
   <p align="center">
